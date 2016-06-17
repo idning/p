@@ -9,7 +9,7 @@ books2016
 
 最近在读 ``罗马人的故事`` 一本非常赞的书, 感慨之余, 分享一下最近的一些读书心得.
 
-.. images:: imgs/story_of_rome.jpg
+.. images:: https://raw.githubusercontent.com/idning/p/master/imgs/story_of_rome.jpg
 
 心外传奇
 --------
